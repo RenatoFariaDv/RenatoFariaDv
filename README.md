@@ -10,4 +10,4 @@ Na LDRU, atendo usuários, acompanho a infraestrutura Windows e desenvolvo siste
 - [Automação de cadastro com Python](https://github.com/RenatoFariaDv/automacao-cadastro-pyautogui) — preenchimento de formulários com PyAutoGUI.
 - [AWS EC2 com Terraform](https://github.com/RenatoFariaDv/iac-ec2-terraform) — provisionamento de infraestrutura por código.
 
-[LDRU Sistemas](https://github.com/LDRU-Sistemas)
+[LinkedIn](https://www.linkedin.com/in/renato-faria-infra/) · [LDRU Sistemas](https://github.com/LDRU-Sistemas)
