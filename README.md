@@ -1,16 +1,13 @@
-## Hi there 👋
+# Renato Faria
 
-<!--
-**RenatoFariaDv/RenatoFariaDv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de TI Júnior na LDRU Auto Peças e estudante de Análise e Desenvolvimento de Sistemas na UNICID.
 
-Here are some ideas to get you started:
+Na LDRU, atendo usuários, acompanho a infraestrutura Windows e desenvolvo sistemas internos. Dois exemplos são o sistema que o RH usa para aplicar provas por cargo e o aplicativo que a operação usa para gerar e imprimir etiquetas de caixa com códigos ITF-14.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos para conhecer meu trabalho
+
+- [Portfólio](https://github.com/RenatoFariaDv/portifolio) — minha atuação na LDRU e uma seleção de projetos públicos.
+- [Automação de cadastro com Python](https://github.com/RenatoFariaDv/automacao-cadastro-pyautogui) — preenchimento de formulários com PyAutoGUI.
+- [AWS EC2 com Terraform](https://github.com/RenatoFariaDv/iac-ec2-terraform) — provisionamento de infraestrutura por código.
+
+[LDRU Sistemas](https://github.com/LDRU-Sistemas)
